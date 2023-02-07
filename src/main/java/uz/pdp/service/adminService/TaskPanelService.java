@@ -1,8 +1,11 @@
 package uz.pdp.service.adminService;
 
+import uz.pdp.entity.task.Task;
+
 public class TaskPanelService {
 
     public void createTask() {
+
     }
 
     public void getAllTasks() {

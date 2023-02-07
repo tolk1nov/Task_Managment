@@ -10,7 +10,7 @@ public interface Utill {
     Scanner intScan = new Scanner(System.in);
     Scanner strScan = new Scanner(System.in);
 
-    ObjectMapper mappaer = new ObjectMapper()
+    ObjectMapper mapper = new ObjectMapper()
             .configure(SerializationFeature.INDENT_OUTPUT, true);
 
     String adminEmail = "admin@gmail.com";
