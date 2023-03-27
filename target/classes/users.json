@@ -1,1 +1,91 @@
-[]
+[ {
+  "id" : "8b2f24ba-d9a7-4594-a3bd-50e97bd94cb4",
+  "createdDate" : "11.02.2023 03:21:41",
+  "updateDate" : "11.02.2023 03:21:41",
+  "name" : "Sarvar",
+  "lastname" : "Tolkinov",
+  "email" : "tolkinov@gmail.com",
+  "password" : "1111",
+  "role" : "BUSINESS_ANALYST",
+  "order" : 1
+}, {
+  "id" : "717d849d-fa19-4bea-a7be-db1029edec9c",
+  "createdDate" : "11.02.2023 03:22:02",
+  "updateDate" : "11.02.2023 04:59:37",
+  "name" : "Ali",
+  "lastname" : "Aliyev",
+  "email" : "ali@gmail.com",
+  "password" : "1111",
+  "role" : "BACKEND_DEV",
+  "order" : 1
+}, {
+  "id" : "553c0362-579d-4b57-a824-7c2356d8fcbc",
+  "createdDate" : "11.02.2023 03:22:25",
+  "updateDate" : "11.02.2023 04:59:47",
+  "name" : "Vali",
+  "lastname" : "Valiyev",
+  "email" : "vali@gmail.com",
+  "password" : "1111",
+  "role" : "FRONTEND_DEV",
+  "order" : 2
+}, {
+  "id" : "0a7876fe-0fe0-4995-bb6d-43d9d209a318",
+  "createdDate" : "11.02.2023 04:57:45",
+  "updateDate" : "11.02.2023 05:00:03",
+  "name" : "Omad",
+  "lastname" : "Omadov",
+  "email" : "omad@gmail.com",
+  "password" : "1111",
+  "role" : "BE_LEAD",
+  "order" : 4
+}, {
+  "id" : "8eb7b48f-ccb4-4d41-bb37-92895a2fdcdb",
+  "createdDate" : "11.02.2023 04:58:17",
+  "updateDate" : "11.02.2023 05:00:15",
+  "name" : "Begzod",
+  "lastname" : "Begzodov",
+  "email" : "begzod@gmail.com",
+  "password" : "1111",
+  "role" : "FE_LEAD",
+  "order" : 5
+}, {
+  "id" : "dae0f600-b0ac-4f4e-a50f-c8caff88ebd4",
+  "createdDate" : "11.02.2023 04:58:40",
+  "updateDate" : "11.02.2023 05:06:03",
+  "name" : "Akbar",
+  "lastname" : "Akbarov",
+  "email" : "akbar@gmail.com",
+  "password" : "1111",
+  "role" : "SCRUM_MASTER",
+  "order" : 3
+}, {
+  "id" : "5d3f9546-a244-4dbc-aeb0-34e2b7a021a1",
+  "createdDate" : "11.02.2023 04:56:02",
+  "updateDate" : "11.02.2023 05:06:22",
+  "name" : "Jam",
+  "lastname" : "Jamshidov",
+  "email" : "jam@gmail.com",
+  "password" : "1111",
+  "role" : "QUALITY_ASSURANCE_EN",
+  "order" : 4
+}, {
+  "id" : "6c365313-7d5b-4766-a8cd-7217869037d7",
+  "createdDate" : "12.02.2023 10:40:48",
+  "updateDate" : "12.02.2023 10:41:36",
+  "name" : "dsas",
+  "lastname" : "ad",
+  "email" : "qwer@gmail.com",
+  "password" : "1111",
+  "role" : "BACKEND_DEV",
+  "order" : 5
+}, {
+  "id" : "a1791473-7d0b-4fd0-8720-c09cb4233068",
+  "createdDate" : "11.02.2023 04:55:20",
+  "updateDate" : "12.02.2023 10:57:53",
+  "name" : "Aziz",
+  "lastname" : "Azizov",
+  "email" : "aziz@gmail.com",
+  "password" : "1111",
+  "role" : "TESTER",
+  "order" : 6
+} ]

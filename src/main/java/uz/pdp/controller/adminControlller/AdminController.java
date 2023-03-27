@@ -16,13 +16,18 @@ public class AdminController {
             switch (intScan.nextInt()){
                 case 0 -> {
                     return;
-                }case 1 -> {
-                    taskPanel.taskPanel();
                 }
-                case 2 -> {
-                    userpanel.userPanel();
-                }
+                case 1 -> userpanel.userPanel();
+                case 2 -> taskPanel.taskPanel();
+                default -> System.out.println("Mavjud bo'lmagan raqamni bosdingiz!");
             }
         }
+    }
+    static AdminController adminController;
+    public static AdminController getInstance(){
+        if (adminController ==null){
+            adminController =new AdminController();
+        }
+        return adminController;
     }
 }
